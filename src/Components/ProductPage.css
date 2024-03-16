@@ -1,0 +1,35 @@
+.ProductImageCss:hover {
+
+    background-color: rgb(255, 251, 0);
+  
+    opacity: 0.2;
+  
+    justify-content: center;
+  
+    align-items: center;
+  
+    display: flex;
+  
+    position: relative;
+  
+  }
+  
+  .btnhover:hover {
+  
+    background-color: rgb(0, 255, 55);
+  
+  }
+  
+  .plus:hover {
+  
+    background-color: rgb(72, 255, 0);
+  
+  }
+  
+  .minus:hover {
+  
+    background-color: red;
+  
+  }
+  
+   

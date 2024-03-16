@@ -1,0 +1,41 @@
+.main {
+
+    width: auto;
+  
+    text-align: center;
+  
+    padding: 25px;
+  
+    padding-inline-start: inherit;
+  
+    margin: 150px;
+  
+  }
+  
+  .span {
+  
+    padding: 10px;
+  
+    margin: 10px;
+  
+  }
+  
+  .btn {
+  
+    border-radius: 5px;
+  
+    size: 3px;
+  
+    color: black;
+  
+  }
+  
+  .btn:hover {
+  
+    color: black;
+  
+    background-color: yellow;
+  
+  }
+  
+   
